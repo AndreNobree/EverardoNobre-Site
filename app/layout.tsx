@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Advogado Everardo Nobre",
-  description: "Advogado especializado em Direito Criminal, Juri, Trabalhista, Cívil, Empresarial e Consumidor.",
+  description: "Advogado especialista em Direito Criminal, Juri, Trabalhista, Cívil, Empresarial e Consumidor. Atuando com ética, compromisso e excelência desde 1989.",
 };
 
 export default function RootLayout({
