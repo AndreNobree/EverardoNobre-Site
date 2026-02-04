@@ -58,7 +58,7 @@ export default function Home() {
             </p>
 
             <div className="flex gap-3">
-              <a href="https://api.whatsapp.com/send/?phone=5585999980870&text=Olá+gostaria+de+Solicitar+uma+Consultoria%21&type=phone_number&app_absent=0" target="_blank"><img src="/whatsapp.png" className="w-5 h-5" /></a>
+              <a href="#consultoria" target="_blank"><img src="/whatsapp.png" className="w-5 h-5" /></a>
               <a href="https://www.linkedin.com/in/everardo-nobre-advogado-b93397140/" target="_blank"><img src="/linkedin.png" className="w-5 h-5" /></a>
               <a href="https://www.facebook.com/eveverardo.nobre?locale=pt_BR" target="_blank"><img src="/facebook.png" className="w-5 h-5" /></a>
               <a href="https://www.instagram.com/everardonobreadv/" target="_blank"><img src="/instagram.png" className="w-5 h-5" /></a>
